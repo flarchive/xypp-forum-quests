@@ -1,0 +1,50 @@
+xypp-forum-quests:
+  forum:
+    integration:
+      condition:
+        post_count: => xypp-forum-quests.ref.integration.condition.post_count
+        discussion_count: => xypp-forum-quests.ref.integration.condition.discussion_count
+        like_recv: => xypp-forum-quests.ref.integration.condition.like_recv
+        like_send: => xypp-forum-quests.ref.integration.condition.like_send
+        user_page_view: => xypp-forum-quests.ref.integration.condition.user_page_view
+        reloads: => xypp-forum-quests.ref.integration.condition.reloads
+        store_purchased: => xypp-forum-quests.ref.integration.condition.store_purchased
+        discussion_replied: => xypp-forum-quests.ref.integration.condition.discussion_replied
+        discussion_views: => xypp-forum-quests.ref.integration.condition.discussion_views
+      reward:
+        money: => xypp-forum-quests.ref.integration.reward.money
+        store_item: => xypp-forum-quests.ref.integration.reward.store_item
+        store_item_loading: => xypp-forum-quests.ref.integration.reward.store_item_loading
+  admin:
+    integration:
+      condition:
+        post_count: => xypp-forum-quests.ref.integration.condition.post_count
+        discussion_count: => xypp-forum-quests.ref.integration.condition.discussion_count
+        like_recv: => xypp-forum-quests.ref.integration.condition.like_recv
+        like_send: => xypp-forum-quests.ref.integration.condition.like_send
+        user_page_view: => xypp-forum-quests.ref.integration.condition.user_page_view
+        reloads: => xypp-forum-quests.ref.integration.condition.reloads
+        store_purchased: => xypp-forum-quests.ref.integration.condition.store_purchased
+        discussion_replied: => xypp-forum-quests.ref.integration.condition.discussion_replied
+        discussion_views: => xypp-forum-quests.ref.integration.condition.discussion_views
+      reward:
+        money: => xypp-forum-quests.ref.integration.reward.money
+        store_item: => xypp-forum-quests.ref.integration.reward.store_item
+        store_item_loading: => xypp-forum-quests.ref.integration.reward.store_item_loading
+  ref:
+    integration:
+      condition:
+        post_count: "发帖数"
+        discussion_count: "讨论数"
+        like_recv: "收到赞"
+        like_send: "发送赞"
+        user_page_view: "访问用户页"
+        reloads: "页面重载"
+        store_purchased: "购买商品"
+        discussion_replied: "被回复"
+        discussion_views: "讨论浏览"
+      reward:
+        money: "钱"
+        store_item: "商品"
+        store_item_loading: "..."
+        store_item_error: "商品未找到"
