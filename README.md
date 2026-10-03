@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of xypp/forum-quests.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/forum-quests) or the [upstream repository](https://github.com/zxy19/flarum-forum-quests).
 
-**0** versions archived · Latest: [`v2.0.4`](https://github.com/flarchive/xypp-forum-quests/tree/archive/v2.0.4) · License: `MIT` · Flarum: `^1.2.0`
+**27** versions archived · Latest: [`v2.0.4`](https://github.com/flarchive/xypp-forum-quests/tree/archive/v2.0.4) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2024-07-24 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-forum-quests/tree/archive/v0.0.1) |
+| `v0.0.2` | 2024-07-24 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-forum-quests/tree/archive/v0.0.2) |
+| `v0.0.3` | 2024-07-24 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-forum-quests/tree/archive/v0.0.3) |
+| `v0.0.4` | 2024-07-24 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-forum-quests/tree/archive/v0.0.4) |
+| `v0.0.5` | 2024-07-24 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-forum-quests/tree/archive/v0.0.5) |
+| `v0.0.6` | 2024-07-24 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-forum-quests/tree/archive/v0.0.6) |
+| `v0.1.0` | 2024-07-24 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-forum-quests/tree/archive/v0.1.0) |
+| `v0.1.1` | 2024-07-25 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-forum-quests/tree/archive/v0.1.1) |
+| `v0.1.2` | 2024-07-25 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-forum-quests/tree/archive/v0.1.2) |
+| `v0.1.3` | 2024-07-25 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-forum-quests/tree/archive/v0.1.3) |
+
+[View all 27 versions](https://github.com/flarchive/xypp-forum-quests/tags)
 
 Catalog entry: [packages/xypp-forum-quests.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-forum-quests.json)
 
